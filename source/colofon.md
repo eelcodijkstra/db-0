@@ -18,7 +18,7 @@ Als *inhoudelijk expert* is Toon Koppelaars (Oracle) betrokken geweest bij de op
 
 <Vakdidactische expert>
 
-*Copyright ©2019 SLO*
+*Copyright ©2019 SLO, Amersfoort*
 
 Voor deze module geldt een Creative Commons Naamsvermelding CC-BY licentie ([https://creativecommons.org/licenses/by/4.0/deed.nl](https://creativecommons.org/licenses/by/4.0/deed.nl)).
 

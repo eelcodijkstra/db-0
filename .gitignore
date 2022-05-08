@@ -1,2 +1,5 @@
 *.doctree
 docs/doctrees
+.ipynb_checkpoints
+.DS_STORE
+

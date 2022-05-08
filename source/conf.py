@@ -19,7 +19,7 @@ from runestone import runestone_static_dirs, runestone_extensions
 # -- Project information -----------------------------------------------------
 
 project = 'Databases-0'
-copyright = '2019, SLO'
+copyright = '2019 SLO, Amersfoort (CC-BY)'
 author = 'SLO'
 
 # The full version, including alpha/beta/rc tags
@@ -36,12 +36,6 @@ extensions = [
     'sphinx.ext.todo',
     'sphinx.ext.mathjax',
     'sphinx.ext.ifconfig',
-
-    'runestone.common', 'runestone.meta', 'runestone.assignment',
-    'runestone.question', 'runestone.assess', 'runestone.shortanswer',
-    'runestone.accessibility', 'runestone.dragndrop',  'runestone.poll',
-    'runestone.parsons', 'runestone.reveal', 'runestone.tabbedStuff',
-    'runestone.utility',
     'recommonmark',
 ]
 #]   + runestone_extensions()
@@ -64,7 +58,7 @@ language = 'nl'
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
-exclude_patterns = []
+exclude_patterns = [".ipynb_checkpoints"]
 
 
 # -- Options for HTML output -------------------------------------------------
@@ -83,7 +77,7 @@ html_theme_options = {
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = ['_static']  + runestone_static_dirs()
+# html_static_path = ['_static']  + runestone_static_dirs()
 
 # Custom sidebar templates, must be a dictionary that maps document names
 # to template names.
