@@ -2,6 +2,6 @@
 docs/doctrees
 .ipynb_checkpoints
 .DS_STORE
-_build
-ext
+_build/
+ext/
 
