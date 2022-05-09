@@ -6,4 +6,5 @@ _build
 __pycache__
 node_modules
 ext/sphinx-exercise
+docs
 

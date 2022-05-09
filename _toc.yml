@@ -12,6 +12,7 @@ parts:
   
 - caption: Inleiding
   chapters:
+  - file: source/inleiding
   - file: source/database-ontwerp-1
 
 
