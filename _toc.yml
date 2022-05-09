@@ -13,6 +13,12 @@ parts:
 - caption: Inleiding
   chapters:
   - file: source/inleiding
+  - file: source/relationele-databases-inleiding
+    sections:
+    - file: source/relationele-databases/relatie-rekenen-1.rst
+    - file: source/relationele-databases/meerdere-tabellen.rst
+    - file: source/relationele-databases/relatie-rekenen-2.rst
+    - file: source/relationele-databases/toetsvragen.rst    
   - file: source/database-ontwerp-1
 
 
