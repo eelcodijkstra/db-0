@@ -24,8 +24,10 @@ parts:
     - file: source/ontwerp/fysiek-model
     - file: source/ontwerp/toetsvragen
   - file: source/database-ontwerp-1
+  - file: surce/data-in-meerdere-tabellen
 
 - caption: Appendix
   chapters:
+  - file: source/glossary
   - file: source/voordedocent
   - file: source/colofon
