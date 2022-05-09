@@ -2,4 +2,7 @@
 docs/doctrees
 .ipynb_checkpoints
 .DS_STORE
+_build
+__pycache__
+node_modules
 

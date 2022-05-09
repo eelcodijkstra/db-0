@@ -1,0 +1,17 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: source/intro
+
+parts:
+- caption: Vooraf
+  chapters:
+  - file: source/voorwoord
+  - file: source/colofon
+  
+- caption: Inleiding
+  chapters:
+  - file: source/database-ontwerp-1
+
+
