@@ -8,17 +8,24 @@ parts:
 - caption: Vooraf
   chapters:
   - file: source/voorwoord
-  - file: source/colofon
-  
+
 - caption: Inleiding
   chapters:
   - file: source/inleiding
   - file: source/relationele-databases-inleiding
     sections:
-    - file: source/relationele-databases/relatie-rekenen-1.rst
-    - file: source/relationele-databases/meerdere-tabellen.rst
-    - file: source/relationele-databases/relatie-rekenen-2.rst
-    - file: source/relationele-databases/toetsvragen.rst    
+    - file: source/relationele-databases/relatie-rekenen-1
+    - file: source/relationele-databases/meerdere-tabellen
+    - file: source/relationele-databases/relatie-rekenen-2
+    - file: source/relationele-databases/toetsvragen
+  - file: source/ontwerp-inleiding
+    sections:
+    - file: source/ontwerp/logisch-model
+    - file: source/ontwerp/fysiek-model
+    - file: source/ontwerp/toetsvragen
   - file: source/database-ontwerp-1
 
-
+- caption: Appendix
+  chapters:
+  - file: source/voordedocent
+  - file: source/colofon

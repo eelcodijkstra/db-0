@@ -1,0 +1,33 @@
+.mytable {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-collapse: collapse;
+}
+
+.mytable  tr {
+    border: 1px solid #888;
+    padding: 5px;
+}
+
+.mytable  td{
+    border: 1px solid #888;
+    padding: 5px;
+}
+
+.mytable  th {
+    border: 1px solid #888;
+    padding: 10px;
+}
+
+.mytable  th {
+    border: 1px solid #888;
+    padding: 10px;
+}
+
+
+
+
+
+

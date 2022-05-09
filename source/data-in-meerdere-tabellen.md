@@ -1,4 +1,4 @@
-## Data in meerdere tabellen
+# Data in meerdere tabellen
 
 * noodzaak van meerdere tabellen
     * voorkomen van redundante vormen (duplicatie van gegevens)
