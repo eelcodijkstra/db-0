@@ -9,7 +9,8 @@ parts:
   chapters:
   - file: source/voorwoord
 
-- caption: Inleiding
+- caption: Databases
+  numbered: true
   chapters:
   - file: source/inleiding
   - file: source/relationele-databases-inleiding
@@ -29,9 +30,13 @@ parts:
     - file: source/nosql/nosql-andersoortig-gebruik.rst
     - file: source/nosql/nosql-opdrachten.rst
     - file: source/nosql/linked-data.rst
+  - file: source/verdieping
+  
+- caption: Rest
+  chapters:
   - file: source/inleiding-rest
   - file: source/database-ontwerp-1
-  - file: surce/data-in-meerdere-tabellen
+  - file: source/data-in-meerdere-tabellen
 
 - caption: Appendix
   chapters:

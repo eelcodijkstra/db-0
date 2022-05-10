@@ -60,7 +60,6 @@ Hetzelfde geldt voor meerwaardige waarden.
 Voorbeelden van documenten (passend bij ons voorbeeld):
 
 ```json
-
   {'Voornaam': 'Hans',
    'Achternaam': 'de Vries',
    'Adres': {'Straat': 'Achterweg 12', 'Plaats': 'Arnhem'},

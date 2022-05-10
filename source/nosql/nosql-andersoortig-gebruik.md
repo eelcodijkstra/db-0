@@ -76,6 +76,7 @@ en de bijbehorende Contacten:
 ```
 
 :::{rubric} Gedeeltelijke inbedding
+:::
 
 Stel dat we in de agenda-toepassing de naam en het primaire email-adres van de Event-deelnemers vrijwel altijd nodig hebben.
 We kunnen ervoor kiezen om een kopie van deze gegevens in het Event-document over te nemen.
