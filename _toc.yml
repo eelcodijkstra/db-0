@@ -23,6 +23,13 @@ parts:
     - file: source/ontwerp/logisch-model
     - file: source/ontwerp/fysiek-model
     - file: source/ontwerp/toetsvragen
+  - file: source/nosql
+    sections:
+    - file: source/nosql/nosql-andersoortige-data.rst
+    - file: source/nosql/nosql-andersoortig-gebruik.rst
+    - file: source/nosql/nosql-opdrachten.rst
+    - file: source/nosql/linked-data.rst
+  - file: source/inleiding-rest
   - file: source/database-ontwerp-1
   - file: surce/data-in-meerdere-tabellen
 
