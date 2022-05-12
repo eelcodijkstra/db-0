@@ -1,4 +1,4 @@
-# Rekenen met relaties (2)
+# Combineren van tabellen: join
 
 Als we een tabel willen maken met alle inschrijvingen voor een bepaalde event,
 met de namen van de leden erin,

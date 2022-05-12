@@ -16,8 +16,13 @@ parts:
   - file: source/relationele-databases-inleiding
     sections:
     - file: source/relationele-databases/relatie-rekenen-1
+    - file: source/relationele-databases/opdrachten/sqlite-1
     - file: source/relationele-databases/meerdere-tabellen
     - file: source/relationele-databases/relatie-rekenen-2
+    - file: source/relationele-databases/opdrachten/sqlite-2
+    - file: source/relationele-databases/opdrachten/sqlite-3
+    - file: source/relationele-databases/opdrachten/sqlite-4
+    - file: source/relationele-databases/opdrachten/sqlite-0
     - file: source/relationele-databases/toetsvragen
   - file: source/ontwerp-inleiding
     sections:
@@ -29,7 +34,6 @@ parts:
     - file: source/nosql/nosql-andersoortige-data.rst
     - file: source/nosql/nosql-andersoortig-gebruik.rst
     - file: source/nosql/nosql-opdrachten.rst
-    - file: source/nosql/linked-data.rst
   - file: source/verdieping
   
 - caption: Rest
@@ -37,9 +41,11 @@ parts:
   - file: source/inleiding-rest
   - file: source/database-ontwerp-1
   - file: source/data-in-meerdere-tabellen
+  - file: source/ontwerp/logisch-model-rest
 
 - caption: Appendix
   chapters:
   - file: source/glossary
+  - file: source/inleiding-jupyter
   - file: source/voordedocent
   - file: source/colofon

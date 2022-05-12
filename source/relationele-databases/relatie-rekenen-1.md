@@ -1,4 +1,4 @@
-# Rekenen met relaties (1)
+# Selectie en projectie
 
 
 Een relationele database wordt zo genoemd omdat een tabel (zoals hierboven beschreven) wiskundig gezien een relatie voorstelt.
