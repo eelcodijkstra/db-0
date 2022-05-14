@@ -55,8 +55,4 @@ Dit werken we in het volgende onderdeel verder uit.
 Zo'n join kost extra tijd: we hebben het voordeel van de genormaliseerde vorm uitgewisseld tegen
 extra kosten voor het raadplegen van de database.
 
-## Opdrachten
-
-
-## Toetsvragen
 

@@ -15,10 +15,10 @@ parts:
   - file: source/inleiding
   - file: source/relationele-databases-inleiding
     sections:
-    - file: source/relationele-databases/relatie-rekenen-1
+#    - file: source/relationele-databases/relatie-rekenen-1
     - file: source/relationele-databases/opdrachten/sqlite-1
     - file: source/relationele-databases/meerdere-tabellen
-    - file: source/relationele-databases/relatie-rekenen-2
+#    - file: source/relationele-databases/relatie-rekenen-2
     - file: source/relationele-databases/opdrachten/sqlite-2
     - file: source/relationele-databases/opdrachten/sqlite-3
     - file: source/relationele-databases/opdrachten/sqlite-4
